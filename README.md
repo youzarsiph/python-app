@@ -1,4 +1,4 @@
-# Python App Template
+# python-app
 
 [![CI](https://github.com/youzarsiph/python-app/actions/workflows/ci.yml/badge.svg)](https://github.com/youzarsiph/python-app/actions/workflows/ci.yml)
 [![CD](https://github.com/youzarsiph/python-app/actions/workflows/cd.yml/badge.svg)](https://github.com/youzarsiph/python-app/actions/workflows/cd.yml)

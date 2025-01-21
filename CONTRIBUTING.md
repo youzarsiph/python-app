@@ -1,6 +1,6 @@
 # Contribution Guidelines
 
-Thank you for considering contributing to the Python Application Template! We appreciate your interest in helping us make this project better. Please take a moment to review these guidelines before submitting your contributions.
+Thank you for considering contributing to the `python-app`! We appreciate your interest in helping us make this project better. Please take a moment to review these guidelines before submitting your contributions.
 
 ## Code of Conduct
 
@@ -21,7 +21,7 @@ Before you can contribute, you’ll need to set up your development environment:
    - Install Poetry if not already installed:
 
      ```bash
-     curl -sSL https://install.python-poetry.org | python3 -
+     pip install poetry
      ```
 
    - Install the project dependencies:
@@ -33,7 +33,7 @@ Before you can contribute, you’ll need to set up your development environment:
 3. **Running the Application**:
 
    ```bash
-   poetry run python src/main.py
+   poetry run python app/main.py
    ```
 
 4. **Code Formatting**:
@@ -119,7 +119,7 @@ Once a pull request is opened, it will be reviewed by one or more maintainers. P
 
 ## License
 
-By contributing to the Python Application Template, you agree that your contributions will be licensed under the [MIT License](LICENSE).
+By contributing to the `python-app`, you agree that your contributions will be licensed under the [MIT License](LICENSE).
 
 ## Support
 
