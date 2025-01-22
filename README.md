@@ -4,6 +4,7 @@
 [![CD](https://github.com/youzarsiph/python-app/actions/workflows/cd.yml/badge.svg)](https://github.com/youzarsiph/python-app/actions/workflows/cd.yml)
 [![Code Style: Black](https://github.com/youzarsiph/python-app/actions/workflows/black.yml/badge.svg)](https://github.com/youzarsiph/python-app/actions/workflows/black.yml)
 [![Code Linting: Ruff](https://github.com/youzarsiph/python-app/actions/workflows/ruff.yml/badge.svg)](https://github.com/youzarsiph/python-app/actions/workflows/ruff.yml)
+[![Code Testing: PyTest](https://github.com/youzarsiph/python-app/actions/workflows/pytest.yml/badge.svg)](https://github.com/youzarsiph/python-app/actions/workflows/pytest.yml)
 [![PyPI - Version](https://img.shields.io/pypi/v/python-app?logo=pypi&logoColor=white)](https://pypi.org/project/python-app/)
 [![PyPI - Python Version](https://img.shields.io/pypi/pyversions/python-app?logo=python&logoColor=white)](https://pypi.org/project/python-app/)
 [![PyPI - Downloads](https://img.shields.io/pypi/dm/python-app?logo=pypi&logoColor=white)](https://pypi.org/project/python-app/)
@@ -19,6 +20,7 @@ This repository serves as a comprehensive Python application template designed t
 - **Dependency Management**: Powered by Poetry, a sophisticated tool for managing project dependencies with precision and reliability.
 - **Code Formatting**: Automatically formatted with Black to maintain a consistent and readable codebase.
 - **Code Linting**: Utilizes Ruff to identify and address potential issues early, enhancing code quality and maintainability.
+- **Code Testing**: Utilizes PyTest to run tests.
 - **Configuration Files**: Includes `.gitignore`, `pyproject.toml`, and other essential configuration files to streamline setup.
 
 ## Quick Start Guide
