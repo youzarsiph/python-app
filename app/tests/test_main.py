@@ -1,4 +1,4 @@
-""" Main Tests """
+"""Main Tests"""
 
 from app.main import greet
 

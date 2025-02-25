@@ -1,4 +1,4 @@
-""" App main """
+"""App main"""
 
 
 def greet(name: str) -> str:
