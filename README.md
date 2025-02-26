@@ -5,6 +5,8 @@
 [![Code Style: Black](https://github.com/youzarsiph/python-app/actions/workflows/black.yml/badge.svg)](https://github.com/youzarsiph/python-app/actions/workflows/black.yml)
 [![Code Linting: Ruff](https://github.com/youzarsiph/python-app/actions/workflows/ruff.yml/badge.svg)](https://github.com/youzarsiph/python-app/actions/workflows/ruff.yml)
 [![Code Testing: PyTest](https://github.com/youzarsiph/python-app/actions/workflows/pytest.yml/badge.svg)](https://github.com/youzarsiph/python-app/actions/workflows/pytest.yml)
+[![Docker Image](https://github.com/youzarsiph/python-app/actions/workflows/docker-image.yml/badge.svg)](https://github.com/youzarsiph/python-app/actions/workflows/docker-image.yml)
+[![Docker Publish](https://github.com/youzarsiph/python-app/actions/workflows/docker-publish.yml/badge.svg)](https://github.com/youzarsiph/python-app/actions/workflows/docker-publish.yml)
 [![PyPI - Version](https://img.shields.io/pypi/v/python-app?logo=pypi&logoColor=white)](https://pypi.org/project/python-app/)
 [![PyPI - Python Version](https://img.shields.io/pypi/pyversions/python-app?logo=python&logoColor=white)](https://pypi.org/project/python-app/)
 [![PyPI - Downloads](https://img.shields.io/pypi/dm/python-app?logo=pypi&logoColor=white)](https://pypi.org/project/python-app/)
